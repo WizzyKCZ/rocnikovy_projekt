@@ -1,9 +1,8 @@
 # Ročníkový projekt - Chytrý termostat spojený se školou online
-## opice
-### dve opice
-- Cíl: Chytrý termostat spojený se školou online
+## Červnová kozultace s učiteli
+- Začínám uvažovat nad ročníkovým projektem, konzultuju s učiteli
+### Konzultace s panem učitelem Grussmannem
 - Zdroje: konkurence a zdroje co používáme
 - Problémy se kterými jsme se setkali
-- Programy: KiCad
-- 14 stránek
-- 
+- Programy se kterými se musím naučit KiCad
+- 14 stránek musí mít dokument
