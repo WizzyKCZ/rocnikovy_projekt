@@ -1,3 +1,3 @@
 # rocnikovy_projekt
-Cíl: Chytrá domácnost
-Zdroje: konkurence a zdroje co používáme
+- Cíl: Chytrá domácnost
+- Zdroje: konkurence a zdroje co používáme
