@@ -1,4 +1,5 @@
 # Ročníkový projekt - Chytrý termostat spojený se školou online
+- pouzit Markdown na README.md
 ## 1. Červnová kozultace s učiteli
 - Začínám uvažovat nad ročníkovým projektem, konzultuju s učiteli
 - pravděpodobně budu schánět pomoc u pana Grussmanna
